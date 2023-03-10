@@ -1,15 +1,4 @@
- HEAD
-hanges by bob
-
-class foo{
-system.out.print ln ("this is code by bob")
-=======
-
-
-changes made by jadon
-
+thi is the foo.java file
 class{
-
-system.out.println("this is code by jadon"
-}
-
+	system.out.print{"this is bob"
+	}
